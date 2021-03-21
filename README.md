@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Edro 👋
 
-<!--
-**Nog-bs/nog-bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and a Dancer!
 
-Here are some ideas to get you started:
+- 🔭 Completed my portfolio site! 
+- 🌱 I’m currently learning TypeScript, GraphQL, and PostgreSQL
+- 🥅 2021 Goals: Learn and play with as many libraries / frameworks as possible
+- ⚡ Fun fact: I dance 💃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://edrogonzales.com/
+[youtube]: https://www.youtube.com/channel/UCDJ0HAsXmfvLWUWC9IDwgbA
+[instagram]: https://www.instagram.com/nog.e/
+[linkedin]: https://www.linkedin.com/in/edrogonzales/
