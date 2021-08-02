@@ -1,4 +1,4 @@
-### Hi there, I am Edro 👋
+### Hi there, Pedro but without the P 👋
 
 ## I'm a Software Developer
 
