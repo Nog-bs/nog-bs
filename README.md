@@ -2,9 +2,9 @@
 
 ## I'm a Software Developer
 
-- 🔭 Learnt TypeScript! 
+- 🔭 Learnt TypeScript!
 - 🌱 Working on a project that utilizes GraphQL, Redis, Postgres, and etc...
-- 🥅 2021 Goals: Refine a solid tech stack such as the one above
+- 🥅 2023 Goals: Reach far and beyond!
 - ⚡ Fun fact: I participate in dance battles 💃
 
 <br />
