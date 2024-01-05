@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer/Developer
 
-- 🧑‍🎓 At BCIT in the Computer System's Technology Program
+- 🧑‍🎓 BCIT in the Computer System's Technology Program
 - 🥅 2023 Goals: gain new experiences in different teams and expand my horizons
 - ⚡ Fun fact: I participate in dance battles [Link](https://www.youtube.com/watch?v=-uiR7OiBDg0&ab_channel=Gigabots) 💃
 
