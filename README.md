@@ -1,11 +1,10 @@
-### Hi there, Pedro but without the P 👋
+# Hi there, Pedro but without the P 👋
 
-## I'm a Software Developer
+## I'm a Software Engineer/Developer
 
-- 🔭 Learnt TypeScript!
-- 🌱 Working on a project that utilizes GraphQL, Redis, Postgres, and etc...
-- 🥅 2023 Goals: Reach far and beyond!
-- ⚡ Fun fact: I participate in dance battles 💃
+- 🧑‍🎓 At BCIT in the Computer System's Technology Program
+- 🥅 2023 Goals: gain new experiences in different teams and expand my horizons
+- ⚡ Fun fact: I participate in dance battles [Link](https://www.youtube.com/watch?v=-uiR7OiBDg0&ab_channel=Gigabots) 💃
 
 <br />
 
